@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="pt-br" lang="pt-br" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>@ViewBag.Title</title>
+    <!--Identificadores-->
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />    
+    <meta content="pt-br" name="language" />
+    <meta content="document" name="resource-type" />
+    <meta content="15" name="revisit-after" />
+    <meta content="Enterprise" name="classification" />
+    <meta content="ALL" name="robots" />
+    <meta content="Global" name="distribution" />
+    <meta content="General" name="rating" />
+    
+    <link href="@Url.Content("~/Content/css/base.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/css/site.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/css/default.css")" rel="stylesheet" type="text/css" />
+    @RenderSection("styles", false)
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    @RenderSection("scripts", false)
+</head>
+<body>
+    <div id="header">
+        <div id="topo-geral">
+            <h1 id="logo">
+                <a href="/" title="JobIn">Trabalhar ficou mais fácil</a>                
+            </h1>
+            <div id="cadastro-login">
+                <h3>Bem-Vindo</h3>
+                <span><a href="javascript:void(0);">Login</a></span>
+                <span id="separador">|</span>
+                <span><a href="javascript:void(0);">Cadastre-se</a></span>
+            </div>
+            <div id="busca">
+                <div>
+                    <input type="text" id="txt-busca" value="Busque aqui" />
+                    <input type="submit" id="btn-busca" value="Buscar" />
+                </div>
+                <div id="filtro">
+                    filtrar por:
+                    <input type="checkbox" id="option-segmento" />
+                    <label for="option-segmento">
+                        segmentos</label>
+                    <input type="checkbox" id="option-categoria" />
+                    <label for="option-categoria">
+                        categorias
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+    @RenderBody()
+    <div id="footer">
+        <div id="rodape-geral">
+            <h1 id="logo-rodape">
+                <a href="/" title="JobIn">JobIn</a>
+            </h1>
+            <ul>
+                <li><a class="link-destaque" href="javascript:void(0);">Anuncie aqui</a></li>
+                <li><a class="link-destaque" href="javascript:void(0);">Contrate já</a></li>
+                <li class="seprador">|</li>
+                <li><a href="javascript:void(0);">Quem somos</a></li>
+                <li class="seprador">|</li>
+                <li><a href="javascript:void(0);">Como funciona</a></li>
+                <li>|</li>
+                <li><a href="javascript:void(0);">Tire aqui suas dúvidas</a></li>
+                <li>|</li>
+                <li><a href="javascript:void(0);">Termos de uso</a></li>
+            </ul>
+            <p id="direitos">
+                Copyright <acronym>©</acronym> 2011. Todos os direitos reservados.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

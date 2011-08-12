@@ -1,0 +1,5 @@
+D:\Jobin\Code\Jobin.Model.ValueObjects\bin\Debug\Jobin.Model.ValueObjects.dll
+D:\Jobin\Code\Jobin.Model.ValueObjects\bin\Debug\Jobin.Model.ValueObjects.pdb
+D:\Jobin\Code\Jobin.Model.ValueObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\Jobin\Code\Jobin.Model.ValueObjects\obj\Debug\Jobin.Model.ValueObjects.dll
+D:\Jobin\Code\Jobin.Model.ValueObjects\obj\Debug\Jobin.Model.ValueObjects.pdb

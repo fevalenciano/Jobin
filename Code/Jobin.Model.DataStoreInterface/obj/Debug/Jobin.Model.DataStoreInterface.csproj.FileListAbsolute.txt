@@ -1,0 +1,10 @@
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\bin\Debug\Jobin.Model.DataStoreInterface.dll
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\bin\Debug\Jobin.Model.DataStoreInterface.pdb
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\bin\Debug\Jobin.Model.ValueObjects.dll
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\bin\Debug\Jobin.Model.ValueObjects.pdb
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\obj\Debug\Jobin.Model.DataStoreInterface.dll
+D:\Jobin\Code\Jobin.Model.DataStoreInterface\obj\Debug\Jobin.Model.DataStoreInterface.pdb

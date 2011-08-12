@@ -1,0 +1,66 @@
+c:\users\bruno\documents\visual studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Portal.dll
+c:\users\bruno\documents\visual studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Portal.pdb
+c:\users\bruno\documents\visual studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\EntityFramework.dll
+c:\users\bruno\documents\visual studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\EntityFramework.xml
+c:\users\bruno\documents\visual studio 2010\Projects\Jobin.Portal\Jobin.Portal\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2010\Projects\Jobin.Portal\Jobin.Portal\obj\Debug\Jobin.Portal.dll
+c:\users\bruno\documents\visual studio 2010\Projects\Jobin.Portal\Jobin.Portal\obj\Debug\Jobin.Portal.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\ES.Practices.Common.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.ValueObjects.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\ES.Practices.ExceptionHandling.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\ES.Practices.Caching.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.DataStoreInterface.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\ES.Practices.Transaction.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.Unity.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.DataStore.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.CallHandlers.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\BeIT.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.ValueObjects.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.DataStoreInterface.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.DataStore.pdb
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Portal.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Portal.pdb
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\EntityFramework.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\ES.Practices.Common.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.ValueObjects.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\ES.Practices.ExceptionHandling.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\ES.Practices.Caching.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.DataStoreInterface.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\ES.Practices.Transaction.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.Unity.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.DataStore.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.CallHandlers.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\BeIT.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.pdb
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\EntityFramework.xml
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.ValueObjects.pdb
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.DataStoreInterface.pdb
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\bin\Jobin.Model.DataStore.pdb
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\obj\Debug\ResolveAssemblyReference.cache
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\obj\Debug\Jobin.Portal.dll
+D:\Jobin\Code\Jobin.Portal\Jobin.Portal\obj\Debug\Jobin.Portal.pdb

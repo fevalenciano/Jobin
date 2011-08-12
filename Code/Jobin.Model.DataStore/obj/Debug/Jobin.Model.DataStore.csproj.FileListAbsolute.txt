@@ -1,0 +1,15 @@
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Jobin.Model.DataStore.dll
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Jobin.Model.DataStore.pdb
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\ES.Practices.ExceptionHandling.dll
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Jobin.Model.DataStoreInterface.dll
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Jobin.Model.ValueObjects.dll
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Jobin.Model.DataStoreInterface.pdb
+D:\Jobin\Code\Jobin.Model.DataStore\bin\Debug\Jobin.Model.ValueObjects.pdb
+D:\Jobin\Code\Jobin.Model.DataStore\obj\Debug\ResolveAssemblyReference.cache
+D:\Jobin\Code\Jobin.Model.DataStore\obj\Debug\Jobin.Model.DataStore.dll
+D:\Jobin\Code\Jobin.Model.DataStore\obj\Debug\Jobin.Model.DataStore.pdb

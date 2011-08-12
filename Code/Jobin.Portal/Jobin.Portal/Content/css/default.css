@@ -1,0 +1,161 @@
+﻿/* Topo da página */
+#header, #footer
+{
+    background-color:#ff6600;        
+}
+
+#topo-geral
+{
+    padding-top:21px;    
+}
+
+#topo-geral, #topo-geral a, #rodape-geral, #rodape-geral a
+{
+    color:#fff;    
+}
+
+#logo a
+{
+    background: url("/Content/images/sprite.png") no-repeat scroll -49px -98px transparent;
+    float: left;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 58px 0 0;
+    text-indent: 12px;
+    width: 177px;
+}
+
+#cadastro-login
+{
+    float:right;
+    padding-top:10px;
+    width: 160px;
+}
+
+#cadastro-login h3
+{
+    font-size:24px;
+}
+
+#cadastro-login span
+{
+    font-size:16px;
+}
+
+#separador 
+{
+    margin:0px 10px;    
+}
+
+#busca
+{
+    margin: 16px 0 0 200px;
+}
+
+#txt-busca
+{
+    background: url("/Content/images/sprite.png") no-repeat scroll -172px -22px #FFFFFF;
+    border: 0 none;
+    border-radius: 3px 0 0 3px;
+    color: #B1B1B1;
+    font-size: 16px;
+    padding: 13px 15px 11px 40px;
+    vertical-align: middle;
+    width: 425px;
+}
+
+#btn-busca
+{
+    background-color: #FFA319;
+    border: medium none;
+    border-radius: 0 3px 3px 0;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 20px;
+    height: 43px;
+    margin-left: -3px;
+    vertical-align: middle;
+    width: 95px;    
+}
+
+#btn-busca:hover
+{
+    background-color:#ffc241;    
+}
+
+#btn-busca:active
+{
+    position:relative;
+    top:1px;    
+}
+
+#filtro
+{
+    padding:7px 0 7px 17px;
+}
+
+#filtro input
+{
+    margin:0px 0px 0px 7px;    
+}
+
+#filtro label, #filtro input
+{
+    vertical-align:middle;    
+}
+
+
+#footer
+{
+    clear:both;
+}
+
+#logo-rodape a
+{
+    background: url("/Content/images/sprite.png") no-repeat scroll -57px -26px transparent;
+    float: left;
+    font-weight: normal;
+    height: 31px;
+    margin-bottom:14px;
+    overflow: hidden;    
+    text-indent: -500px;
+    width: 100px;
+}
+
+#rodape-geral
+{
+    padding-top:30px;    
+}
+
+#rodape-geral ul
+{
+    margin-left: 115px;
+    margin-top: 6px;    
+}
+
+#rodape-geral ul li
+{
+    display: inline;
+    font-size: 14px;
+    margin: 0 5px;
+}
+
+#direitos
+{
+    clear:both;
+    padding-bottom:10px;
+}
+
+#footer a.link-destaque
+{
+    background-color:#ffa84d;
+    color:#434343;
+    font-family:verdana;
+    font-weight:bold;
+    padding:0px 2px;
+}
+
+#footer a.link-destaque:hover
+{
+    color:#fff;    
+}

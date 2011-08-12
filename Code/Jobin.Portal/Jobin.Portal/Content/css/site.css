@@ -1,0 +1,63 @@
+/* Estilos básicos para formulários
+-----------------------------------------------------------*/
+.editor-label 
+{
+    margin: 1em 0 0 0;
+}
+
+.editor-field 
+{
+    margin:0.5em 0 0 0;
+}
+
+
+/* Estilos básicos para validações
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+
+/* Estilos básicos para estrutura da página
+-----------------------------------------------------------*/
+#topo-geral, #section, #rodape-geral
+{
+    color: #666666;
+    font-family: Arial;
+    font-size: 12px;
+    margin: 0 auto;
+    width: 960px;     
+}
+
+body a
+{
+    color:#666666;
+    text-decoration:none;
+}
+
+body a:hover
+{
+    text-decoration:underline;
+}
